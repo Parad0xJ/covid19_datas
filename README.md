@@ -1,6 +1,6 @@
 # covid19_datas
 
-Les chiffres de l'épidémie du Coronavirus
+La pandémie du Covid-19 en chiffre.
 
 `Application pour suivre l'évolution de l'épidémie du Coronavirus.`
 
