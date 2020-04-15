@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css?family=Oswald&display=swap");
+
+body {
+    background-color: rgb(114, 122, 226) !important;
+    font-family: "Oswald", sans-serif !important;
+}
+
+.App {
+    text-align: center;
+}
+
+.jumbotron,
+.navbar,
+.allPays {
+    background-color: rgba(52, 58, 64, 0.74) !important;
+}
+.number {
+    font-size: 3rem;
+    color: rgb(141, 19, 19);
+}
+#bloc_1,
+#bloc_2,
+#bloc_3,
+.littleBloc2 {
+    width: 28%;
+    background-color: rgba(52, 58, 64, 0.178);
+}
+.countryName {
+    font-size: 2rem;
+    background-color: rgba(75, 74, 173, 0.685) !important;
+}
+.franceDatas,
+.paysDatas {
+    font-size: 1.4rem;
+    color: rgb(141, 19, 19);
+}
+.franceDatas2 {
+    font-size: 1rem;
+    color: rgb(141, 19, 19);
+}
+.info {
+    /* font-size: 0.6vw !important; */
+    font-size: 1.3vmin !important;
+}
+#footer {
+    width: 100%;
+    /* position: fixed; */
+    bottom: 0;
+    margin-bottom: 0;
+    margin-top: 20px;
+}
